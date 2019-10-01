@@ -1,5 +1,5 @@
 <p align="center">
- <img src='https://i.imgur.com/sSu280D.png' alt='UoWCSEDept Logo' width=80>
+ <a href="#"><img src='https://i.imgur.com/sSu280D.png' alt='UoWCSEDept Logo' width=80></a>
  &nbsp;
  <img src='https://i.imgur.com/SP72GJm.png' alt='UoW Logo'>
  &nbsp;
