@@ -13,9 +13,11 @@
  </p>
 </p>
 
-<small align="center"><b>This repo consists of programming assignments done during the duration of the course.</b></small>
-<br/>
-<br/>
+<div  align="center">
+ <p style='font-size:10px'><b>This repo consists of programming assignments done during the duration of the course.</b></p>
+ <br/>
+ <br/>
+</div>
 
 <p align="center">
  Assignments are implemented using the following python libraries
