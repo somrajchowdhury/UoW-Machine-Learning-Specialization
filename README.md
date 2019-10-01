@@ -1,14 +1,14 @@
 <p align="center">
  <a href="#"><img src='https://i.imgur.com/sSu280D.png' alt='UoWCSEDept Logo' width=80></a>
  &nbsp;
- <img src='https://i.imgur.com/SP72GJm.png' alt='UoW Logo'>
+ <a href="#"><img src='https://i.imgur.com/SP72GJm.png' alt='UoW Logo'></a>
  &nbsp;
- <img src='https://i.imgur.com/2AWkFuL.png' alt='UoWStatDept Logo' width=150>
+ <a href="#"><img src='https://i.imgur.com/2AWkFuL.png' alt='UoWStatDept Logo' width=150></a>
  <h2 align="center">University <i>of</i> Washington</h2>
  <div align='center'>
   <sub>in association with</sub>
   <br/>
-  <img src='https://i.imgur.com/jTAC0TH.png' alt='coursera logo' width=80>
+  <a href="#"><img src='https://i.imgur.com/jTAC0TH.png' alt='coursera logo' width=80></a>
  </div>
  <br/>
  <p align="center">
@@ -31,11 +31,11 @@
  <sub><b>Assignments are implemented using the following python libraries:</b></sub>
  <br/>
  <br/>
- <img src='https://i.imgur.com/xmvNe9e.png' alt='pandas logo' width=140>
- <img src='https://i.imgur.com/9DY9iyw.png' alt='numpy logo' width=90>
- <img src='https://i.imgur.com/drYLGp6.png' alt='jupyter logo' width=90>
- <img src='https://i.imgur.com/ONumgkP.png' alt='seaborn logo' width=190>
+ <a href="#"><img src='https://i.imgur.com/xmvNe9e.png' alt='pandas logo' width=140></a>
+ <a href="#"><img src='https://i.imgur.com/9DY9iyw.png' alt='numpy logo' width=90></a>
+ <a href="#"><img src='https://i.imgur.com/drYLGp6.png' alt='jupyter logo' width=90></a>
+ <a href="#"><img src='https://i.imgur.com/ONumgkP.png' alt='seaborn logo' width=190></a>
  <br/>
- <img src='https://i.imgur.com/74aQ7r0.png' alt='matplotlib logo' width=200>
- <img src='https://i.imgur.com/jZado68.png' alt='scikit logo' width=140>
+ <a href="#"><img src='https://i.imgur.com/74aQ7r0.png' alt='matplotlib logo' width=200></a>
+ <a href="#"><img src='https://i.imgur.com/jZado68.png' alt='scikit logo' width=140></a>
 </p>
