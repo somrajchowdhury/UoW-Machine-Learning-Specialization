@@ -19,8 +19,12 @@
  <br/>
 </div>
 
+<div align="center">
+  <sub>This repo consists of programming assignments done during the duration of the course.</sub> 
+</div>
+
 <p align="center">
- Assignments are implemented using the following python libraries
+ <sub><b>Assignments are implemented using the following python libraries:</b></sub>
  <br/>
  <br/>
  <img src='https://i.imgur.com/xmvNe9e.png' alt='pandas logo' width=140>
