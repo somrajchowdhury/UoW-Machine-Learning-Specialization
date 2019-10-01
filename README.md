@@ -23,8 +23,8 @@
  <img src='https://i.imgur.com/xmvNe9e.png' alt='pandas logo' width=140>
  <img src='https://i.imgur.com/9DY9iyw.png' alt='numpy logo' width=90>
  <img src='https://i.imgur.com/drYLGp6.png' alt='jupyter logo' width=90>
- <img src='https://i.imgur.com/ONumgkP.png' alt='seaborn logo' width=170>
+ <img src='https://i.imgur.com/ONumgkP.png' alt='seaborn logo' width=190>
  <br/>
- <img src='https://i.imgur.com/74aQ7r0.png' alt='matplotlib logo' width=180>
- <img src='https://i.imgur.com/jZado68.png' alt='scikit logo' width=120>
+ <img src='https://i.imgur.com/74aQ7r0.png' alt='matplotlib logo' width=200>
+ <img src='https://i.imgur.com/jZado68.png' alt='scikit logo' width=140>
 </p>
