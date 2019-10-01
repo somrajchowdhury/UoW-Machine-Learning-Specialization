@@ -6,7 +6,7 @@
  <div align='center'>
   <sub>in association with</sub>
   <br/>
-  <img src='https://i.imgur.com/jTAC0TH.png' alt='coursera logo' width=65>
+  <img src='https://i.imgur.com/jTAC0TH.png' alt='coursera logo' width=80>
  </div>
  <br/>
  <p align="center">
