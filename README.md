@@ -13,12 +13,6 @@
  </p>
 </p>
 
-<div  align="center">
- <p style='font-size:10px'><b>This repo consists of programming assignments done during the duration of the course.</b></p>
- <br/>
- <br/>
-</div>
-
 <div align="center">
   <sub>This repo consists of programming assignments done during the duration of the course.</sub> 
 </div>
