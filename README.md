@@ -23,7 +23,7 @@
  </p>
 </p>
 
-<div align="center">
+<div align="center" color='blue'>
   <sub>This repo consists of programming assignments done during the duration of the course.</sub> 
 </div>
 
