@@ -1,6 +1,6 @@
 <p align="center">
  <img src='https://i.imgur.com/SP72GJm.png' alt='UoW Logo'>
- <h3 align="center">University of Washington</h3>
+ <h2 align="center">University of Washington</h2>
  <p align="center">
   Machine Learning Specialization
   <br/>
