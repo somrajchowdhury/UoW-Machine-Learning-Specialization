@@ -6,9 +6,9 @@
   <br/>
   <br/>
   <b>Regression</b>
-  .
+  ·
   <b>Classification</b>
-  .
+  ·
   <b>Clustering</b>
  </p>
 </p>
