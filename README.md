@@ -13,10 +13,11 @@
  </p>
 </p>
 
+<small align="center"><b>This repo consists of programming assignments done during the duration of the course.</b></small>
+<br/>
+<br/>
+
 <p align="center">
- <small>This repo consists of programming assignments done during the duration of the course.</small>
- <br/>
- <br/>
  Assignments are implemented using the following python libraries
  <br/>
  <br/>
