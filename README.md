@@ -1,11 +1,12 @@
 <p align="center">
  <img src='https://i.imgur.com/SP72GJm.png' alt='UoW Logo'>
- 
+ <h2 align="center">University of Washington</h2>
  <div align='center'>
-  <h2 align="center">University of Washington</h2>
   <sub>in association with</sub>
-  <img src='https://i.imgur.com/jTAC0TH.png' alt='coursera logo' width=70>
+  <img src='https://i.imgur.com/jTAC0TH.png' alt='coursera logo' width=45>
  </div>
+ <br/>
+ <br/>
  <p align="center">
   Machine Learning Specialization
   <br/>
