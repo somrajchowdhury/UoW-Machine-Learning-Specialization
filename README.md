@@ -12,4 +12,6 @@
   <b>Clustering</b>
  </p>
 </p>
-This repo consists the programming assignments done during the courses.
+```python
+This repo consists of the programming assignments done during the duration of the course using <b>Pandas</b>.
+```
