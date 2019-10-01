@@ -1,5 +1,6 @@
 <p align="center">
- <img src='https://i.imgur.com/sSu280D.png' alt='UoWCSEDept Logo' width=80>
+ <img src='https://i.imgur.com/sSu280D.png' alt='UoWCSEDept Logo' width=90>
+ &nbsp;
  <img src='https://i.imgur.com/SP72GJm.png' alt='UoW Logo'>
  <h2 align="center">University <i>of</i> Washington</h2>
  <div align='center'>
