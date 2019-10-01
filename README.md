@@ -20,10 +20,11 @@
  Assignments are implemented using the following python libraries
  <br/>
  <br/>
- <img src='https://i.imgur.com/xmvNe9e.png' alt='pandas logo' width=70>
- <img src='https://i.imgur.com/9DY9iyw.png' alt='numpy logo' width=70>
- <img src='https://i.imgur.com/drYLGp6.png' alt='jupyter logo' width=70>
- <img src='https://i.imgur.com/ONumgkP.png' alt='seaborn logo' width=120>
+ <img src='https://i.imgur.com/xmvNe9e.png' alt='pandas logo' width=90>
+ <img src='https://i.imgur.com/9DY9iyw.png' alt='numpy logo' width=90>
+ <img src='https://i.imgur.com/drYLGp6.png' alt='jupyter logo' width=90>
+ <img src='https://i.imgur.com/ONumgkP.png' alt='seaborn logo' width=140>
+ <br/>
  <img src='https://i.imgur.com/74aQ7r0.png' alt='matplotlib logo' width=150>
  <img src='https://i.imgur.com/jZado68.png' alt='scikit logo' width=70>
 </p>
